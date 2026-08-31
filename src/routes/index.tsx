@@ -210,7 +210,9 @@ function Index() {
           height={1104}
           className="absolute inset-0 size-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-background/95 via-background/85 to-background/30" />
+        <div className="absolute inset-0 bg-gradient-to-r from-background/95 via-background/70 to-background/5" />
+        <div className="absolute inset-0 bg-gradient-to-t from-background/60 via-transparent to-transparent" />
+
         <div className="relative mx-auto flex min-h-[92vh] max-w-7xl items-center px-5 pt-28 pb-16 lg:px-8">
           <div className="max-w-2xl animate-[var(--animate-fade-up)]">
             <Label>Professional Massage Therapy</Label>
